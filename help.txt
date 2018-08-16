@@ -1,0 +1,7 @@
+DESCRIPTION:-	
+			This game consists of a ball controlled by the player. There are fixed number of balls flashing on the screen which get destroyed when the player ball comes in contact with them and the score of the player gets incremented depending on the colour of the flashing ball. The level of the game goes up depending on the score of the player. At each level , the difficulty increases by introducing magnet and then introducing a moving porcupine which reduces the score of the player when the ball comes in contact with the porcupine. The ball upon entering the pond goes to the base of the pond with a terminal velocity and then reaches the floor along the semicircular curve of the floor of the pool. The ball upon jumping on the trampoline is given a boost. The ball upon collision with the balls having plank is reflected according to the laws of reflection. There is a boundary of the game which the player ball is not allowed to cross.
+CONTROLS:-
+		i)   'a' -  Move left.
+		ii)  'd' - Move right.
+		iii) SPACE - Jump.
+		iv) SCROLL - ZOOM IN/OUT.
